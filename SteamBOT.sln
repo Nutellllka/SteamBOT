@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamBOT", "SteamBOT\SteamBOT.csproj", "{A0973E7F-1FE3-445C-B7A7-2708B3C07AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0973E7F-1FE3-445C-B7A7-2708B3C07AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0973E7F-1FE3-445C-B7A7-2708B3C07AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0973E7F-1FE3-445C-B7A7-2708B3C07AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0973E7F-1FE3-445C-B7A7-2708B3C07AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B94DF1-3B9E-4970-8D9F-A8FDB35E5081}
+	EndGlobalSection
+EndGlobal
